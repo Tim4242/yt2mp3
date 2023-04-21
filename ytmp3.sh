@@ -1,8 +1,5 @@
 #!/bin/bash
 
-RED=$(tput setaf 1)
-WHITE=$(tput setaf 7)
-BLUE=$(tput setaf 4)
 FILE=/home/$USER/Music/songs.txt
 packages=("yt-dlp" "id3v2")
 mfolder=/home/$USER/Music/
